@@ -1,0 +1,10 @@
+.mikuu {
+  text-align: center; /* 父容器让图片水平居中 */
+  padding: 20px;      /* 可选，增加上下间距 */
+}
+
+.miku7 {
+  max-width: 40%;     /* 图片最大占父容器宽度 60% */
+  height: auto;       /* 保持比例缩放 */
+  display: inline-block; /* 让 text-align 生效 */
+}
