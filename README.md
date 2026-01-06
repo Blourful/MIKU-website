@@ -1,8 +1,7 @@
 
-## 功能
+## Function
 
-- 显示 Miku 图片
-- 图片居中显示并响应式缩放
-- 简单网页结构，适合 GitHub Pages 部署
+- Display Miku image
+- Deploy a static website on GitHub
 
 
