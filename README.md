@@ -4,3 +4,4 @@
 - Deploy a static website on GitHub
 
 ## Study
+- Individual study
